@@ -1,0 +1,185 @@
+{
+    "lstJcChk": [
+        {
+            "key": "keyJcChk1",
+            "text": "SJFD"
+        },
+        {
+            "key": "keyJcChk2",
+            "text": "POC"
+        }
+    ],
+    "lstStlNat": [
+        {
+            "key": "keyStlNat1",
+            "text": "NORMAL"
+        },
+        {
+            "key": "keyStlNat2",
+            "text": "ELEVATED"
+        },
+        {
+            "key": "keyStlNat3",
+            "text": "IMMINENT"
+        }
+    ],
+    "lstStlDwr": [
+        {
+            "key": "keyStlDwr1",
+            "text": "NORMAL"
+        },
+        {
+            "key": "keyStlDwr2",
+            "text": "ELEVATED"
+        },
+        {
+            "key": "keyStlDwr3",
+            "text": "IMMINENT"
+        }
+    ],
+    
+    "lstLppp": [
+        {
+            "key": "keyLppp1",
+            "text": "REMOTE"
+        },
+        {
+            "key": "keyLppp2",
+            "text": "LOCAL"
+        }
+    ],
+    "lstBhpp": [
+        {
+            "key": "keyBhpp1",
+            "text": "REMOTE"
+        },
+        {
+            "key": "keyBhpp2",
+            "text": "LOCAL"
+        }
+    ],
+    "lstDepp": [
+        {
+            "key": "keyDepp1",
+            "text": "REMOTE"
+        },
+        {
+            "key": "keyDepp2",
+            "text": "LOCAL"
+        }
+    ],
+    "lstBlpp": [
+        {
+            "key": "keyBlpp1",
+            "text": "REMOTE"
+        },
+        {
+            "key": "keyBlpp2",
+            "text": "LOCAL"
+        }
+    ],
+    "lstPopp": [
+        {
+            "key": "keyPopp1",
+            "text": "REMOTE"
+        },
+        {
+            "key": "keyPopp2",
+            "text": "LOCAL"
+        }
+    ],
+    "lstBvpp": [
+        {
+            "key": "keyBvpp1",
+            "text": "REMOTE"
+        },
+        {
+            "key": "keyBvpp2",
+            "text": "LOCAL"
+        }
+    ],
+    "lstWrpp": [
+        {
+            "key": "keyWrpp1",
+            "text": "REMOTE"
+        },
+        {
+            "key": "keyWrpp2",
+            "text": "LOCAL"
+        }
+    ],
+    "lstWgpp": [
+        {
+            "key": "keyWgpp1",
+            "text": "REMOTE"
+        },
+        {
+            "key": "keyWgpp2",
+            "text": "LOCAL"
+        }
+    ],
+    "lstEdpp": [
+        {
+            "key": "keyEdpp1",
+            "text": "REMOTE"
+        },
+        {
+            "key": "keyEdpp2",
+            "text": "LOCAL"
+        }
+    ],
+    "valDate": "",
+    "valOpName": "",
+    "valUsrName": "",
+    "valJurCtrlChk": "",
+    "valJurCtrlCal": "",
+    "valJurCtrlAqu": "",
+    "valSecThrLvNat": "",
+    "valSecThrLvDwr": "",
+    "valLpppCtrlMde": "",
+    "valLpppFbayElv": "",
+    "valLpppRmrk":"",
+    "valBhppCtrMde":"",
+    "valBhppFbayEl":"",
+    "valBhppRmrk":"",
+    "valDeppCtrlMde":"",
+    "valDeppFbayEl":"",
+    "valDeppRmrk":"",
+    "valBlppCtrMde":"",
+    "valBlppFbayElv":"",
+    "valBLppRmrk":"",
+    "valPoppCtrlMde":"",
+    "valPoppFbayElv":"",
+    "valPoppRmrk":"",
+    "valTnkSite1":"",
+    "valTnkSite2":"",
+    "valTnkSite3":"",
+    "valBvppCtrlMde":"",
+    "valBvppFbayElv":"",
+    "valBvppRmrk":"",
+    "valWrppCtrlMde":"",
+    "valWrppFbayElv":"",
+    "valWrppRmrk":"",
+    "valWgppCtrlMde":"",
+    "valWgppFbayElv":"",
+    "valWgppRmrk":"",
+    "valEdppCtrlMde":"",
+    "valEdppFbayElv":"",
+    "valEdppRmrk":"",
+    "valAqDelP2230":"",
+    "valAqDelKrnRvr":"",
+    "valAqDelP3135":"",
+    "valAqDelCstAq":"",
+    "valAqDelP36":"",
+    "valAqDelP3740":"",
+    "val_wcd_table":"",
+    "val_plntt":"",
+    "valMcdate":"",
+    "valMandt":"",
+    "valSubmitted":"",
+    "cbx_tooltip": "To change: Click the \n\r drop-down arrow \n\r and make selection.",
+    "rmk_tooltip": "Enter exceptions and remarks.  \n\rThis field will expand  \n\rto accommodate your text.",
+    "tnk1tool": "Enter water level for #1"
+
+    
+}
